@@ -1,6 +1,6 @@
 # Purpose
 
-Project made in context with the Explore Unity Mission, from [the Unity Essentials Pathway](https://learn.unity.com/pathways)
+Project made in context with the Explore Unity Mission, from [the Unity Essentials Pathway](https://learn.unity.com/pathways). Published project can be found [here](https://play.unity.com/mg/other/webgl-builds-251190)
 
 # On created assets
 
